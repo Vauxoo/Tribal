@@ -1,0 +1,4 @@
+[submodule "tribal"]
+	path = tribal
+	url = git@git.vauxoo.com:vauxoo/tribal.git
+	branch = 14.0-Initialize-Repo-CarmenMiranda
